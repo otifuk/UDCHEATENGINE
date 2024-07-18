@@ -1,0 +1,7 @@
+UD CheatEngine by Kufito
+--- HOW TO USE ----
+Open "Cheat Engine"
+Open "bin"
+And After u can open "kufitosystem-x86_64.exe" or "kufitosystem-x86_64-SSE4-AVX2.exe"
+
+https://gofile.io/d/EpzccX
