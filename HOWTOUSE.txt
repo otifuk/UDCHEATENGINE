@@ -4,7 +4,7 @@ Open "Cheat Engine"
 Open "bin"
 And After u can open "kufitosystem-x86_64.exe" or "kufitosystem-x86_64-SSE4-AVX2.exe"
 
-https://gofile.io/d/EpzccX
+https://gofile.io/d/Tu2w3I
 
 --- TO MAKE CE MORE HARD TO BE DETECT FOLLOW THIS STEPS ----
 Open CE
